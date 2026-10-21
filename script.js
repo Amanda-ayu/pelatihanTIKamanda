@@ -4,3 +4,4 @@ const tombolSapa = document.getElementById('sapaButton'):
 tombolSapa.addEventlistener('click', function() {
   // 3. Jalankan kode ini ketika tombol di-klik
   alert('Hey, thank u for surviving')
+});;;;;
