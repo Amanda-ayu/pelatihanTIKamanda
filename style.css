@@ -24,5 +24,5 @@ body {
   width: 140px !important;
   height: 200px !important;
   border-radius: 60% !important;
-  objrct-fit: cover !important;
+  object-fit: cover !important;
 }
