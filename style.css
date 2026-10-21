@@ -2,6 +2,12 @@ body {
   background-color: #FF213F;
   font-family: Georgia, helvetica;
   color: #FF0000;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
 }
 
 .kartu-profil {
@@ -13,10 +19,10 @@ body {
   box-shadow: 0 12px 20px black;
   text-align: center;
 }
-|
 
 .kartu-profil img {
-  width: 200px;
+  width: 160px;
   height: 200px
-  border-radius: 70%;
+  border-radius: 50%;
+  objrct-fit: cover;
 }
