@@ -1,6 +1,6 @@
 body {
   background-color: #FF213F;
-  font-family: Georgia, helvetica;
+  font-family: Helvetica, garamond;
   color: #FF0000;
 
   display: flex;
@@ -21,8 +21,8 @@ body {
 }
 
 .kartu-profil img {
-  width: 160px;
+  width: 140px;
   height: 200px
-  border-radius: 50%;
+  border-radius: 60%;
   objrct-fit: cover;
 }
